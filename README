@@ -1,0 +1,7 @@
+SSI processor for Ruby
+----------------------
+
+
+The intial use for this is to make it easy for me to use SSI includes locally before deploying to a remote Nginx Server.
+
+To that end, it supports a small subset of SSI and some Nginx specific extensions, such as virtual includes.
